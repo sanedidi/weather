@@ -45,7 +45,7 @@
     width: 100%;
     max-width: 200px;
     img {
-      padding: 20px;
+      padding: clamp(0.75rem, 0.568rem + 0.91vw, 1.25rem);
       display: flex;
       justify-content: space-between;
       align-items: center;
