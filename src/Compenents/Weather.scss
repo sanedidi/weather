@@ -12,7 +12,7 @@
 .weather {
   // background: linear-gradient(180deg, #130754 0%, #3b2f90 100%);
   padding: 20px;
-  width: 100%;
+  width: 100vw !important;
   height: 100dvh !important;
   &__wrapper {
     display: flex;
